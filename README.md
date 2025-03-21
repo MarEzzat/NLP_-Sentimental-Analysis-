@@ -1,6 +1,6 @@
 # Sentiment Analysis 
 
-## Project Overview
+## Assignment Overview
 This Assignment performs sentiment analysis on Twitter data using a Bidirectional LSTM (BiLSTM) model. The dataset contains tweets labeled with different sentiment categories, and the model classifies tweets into four sentiment classes.
 
 ## Dataset
