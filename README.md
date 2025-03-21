@@ -24,6 +24,11 @@ This Assignment performs sentiment analysis on Twitter data using a Bidirectiona
 - **Metrics**: Accuracy
 - **Callbacks**:
   - `ReduceLROnPlateau`: Reduces learning rate if validation loss stagnates.
+    
+## Kaggle Notebook
+
+You can check out the full notebook here: [Sentiment Analysis Notebook](https://www.kaggle.com/code/mariamezzathammam/ass-sentimentalanalysis)
+
 
 ## Results
 - The model is trained for 10 epochs with a batch size of 64.
